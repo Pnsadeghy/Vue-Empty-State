@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import emptyState from "@/components/tools/EmptyState"
+import emptyState from "@/components/packages/EmptyState"
 import appForm from './Form'
 import {mapGetters} from 'vuex'
 import {MESSAGE, MESSAGE_HIDE} from "@/store/names"

@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import emptyState from "@/components/tools/EmptyState"
+import emptyState from "@/components/packages/EmptyState"
 
 export default {
   components: {emptyState},

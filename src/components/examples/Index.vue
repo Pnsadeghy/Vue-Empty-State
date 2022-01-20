@@ -9,10 +9,10 @@
 
 <script>
 import appTabs from './Tabs'
-import empty from '@/components/empty/Index'
-import message from '@/components/message/Index'
-import custom from '@/components/custom/Index'
-import store from '@/components/store/Index'
+import empty from './empty/Index'
+import message from './message/Index'
+import custom from './custom/Index'
+import store from './store/Index'
 
 export default {
   data() {
