@@ -1,0 +1,43 @@
+{
+  "label": {
+    "title": "Title",
+    "description": "Description",
+    "icon": "Icon",
+    "theme": "Theme"
+  },
+  "message": {
+    "tab": "Message",
+    "title": "Message",
+    "description": "Permanently display a message"
+  },
+  "empty": {
+    "tab": "Empty list",
+    "text": "List is not empty",
+    "fill": "Fill the list",
+    "clear": "Clear list"
+  },
+  "store": {
+    "tab": "Using store",
+    "save": "Save in store",
+    "back": "Back to form"
+  },
+  "custom": {
+    "tab": "Custom content",
+    "title": "Custom content",
+    "description": "Using scope for custom html",
+    "text": "extra text for test"
+  },
+  "state": {
+    "empty": {
+      "title": "There is nothing here",
+      "redirect": "Go home",
+      "reload": "Try again"
+    },
+    "type": {
+      "none": "-",
+      "empty": "Empty",
+      "error": "Error",
+      "warning": "Warning"
+    }
+  }
+}
